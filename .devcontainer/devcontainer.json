@@ -3,7 +3,7 @@
 {
 	"name": "h3xsh-devcontainer-base",
 	// "remoteUser": "dev",
-	"image": "h3xsh/image:base",
+	"image": "h3xsh/image:wip",
 
 
 	// Configure tool-specific properties.
